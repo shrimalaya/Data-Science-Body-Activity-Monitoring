@@ -59,4 +59,4 @@ Project is: _finished_
 Project based on Computational Datascience
 
 ## Created By
-Created by [by Arpit Kaur,Sharjeel Ahmed and Srimalaya Ladha]
+Created by [Arpit Kaur,Sharjeel Ahmed and Srimalaya Ladha]
