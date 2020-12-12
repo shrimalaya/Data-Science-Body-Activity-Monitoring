@@ -56,6 +56,7 @@ List of features ready
         5) Run main.py on terminal
            -Command will look like:
            -python3 main.py data/testdata/walk3.csv
+           -Results shown on teminal
      
 
 ## Status
