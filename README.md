@@ -1,17 +1,16 @@
-# CMPT-353-Final-Project
 # CMPT353 PROJECT : BODY ACTIVITY MONITORING
-> In this project, we predict a user's activity based on whether they are standing,walking or running.
+> In this project, we predict a user's activity based on whether they are standing, walking or running.
 
 ### _A Report with all the analysis and  details of the used techniques is saved as the file Report.pdf
 
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Libraries Used](#Libraries Used)
+* [Libraries Used](#libraries)
 * [Features](#features)
 * [Status](#status)
-* [Based On](#Based On)
-* [Created By](#Created By)
+* [Based On](#based On)
+* [Created By](#creation)
 
 ## General info
 The idea behind this project is to predict based on a user’s activity whether they are standing, walking, or running using machine learning algorithms.Data was collected through sensors and data preprocessing was done. Statistical tests were used to analyze the data. Feature engineering was used for training Machine Learning Models.
@@ -61,4 +60,4 @@ Project is: _finished_
 Project based on Computational Datascience
 
 ## Created By
-Created by [by Arpit Kaur,Sharjeel Ahmad and Srimalaya Ladha]
+Created by [by Arpit Kaur,Sharjeel Ahmed and Srimalaya Ladha]
