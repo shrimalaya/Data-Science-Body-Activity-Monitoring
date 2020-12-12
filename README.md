@@ -1,7 +1,7 @@
 # CMPT353 PROJECT : BODY ACTIVITY MONITORING
 In this project, we predict a user's activity based on whether they are standing, walking or running.
 
-#### _A Report with all the analysis and  details of the used techniques is saved as the file Report.pdf_
+#### _A Report with all the analysis and  details of the used techniques is saved as the file CMPT 353 Report.pdf_
 
 ## Table of contents
 * [General info](#general-info)
