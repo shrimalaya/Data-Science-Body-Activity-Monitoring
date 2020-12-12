@@ -9,7 +9,7 @@
 * [Libraries Used](#libraries)
 * [Features](#features)
 * [Status](#status)
-* [Based On](#based On)
+* [Based On](#basis)
 * [Created By](#creation)
 
 ## General info
@@ -26,7 +26,6 @@ pandas
 matplotlib.pyplot
 statsmodels.nonparametric.smoothers_lowess 
 scipy 
-import scipy.fftpack
 
 
 ## Features
