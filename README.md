@@ -23,7 +23,7 @@ You will need to install Anaconda
 ## Libraries Used
 * numpy
 * pandas
-* matplotlib
+* matplotlib 
 * statsmodels
 * scipy 
 * sklearn
