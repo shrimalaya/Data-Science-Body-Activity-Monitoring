@@ -8,6 +8,7 @@ In this project, we predict a user's activity based on whether they are standing
 * [Technologies](#technologies)
 * [Libraries Used](#Libraries-Used)
 * [Features](#Features)
+* [Order Of Execution](#Order-of-execution)
 * [Status](#Status)
 * [Based On](#Based-on)
 * [Created By](#Created-By)
@@ -66,4 +67,4 @@ Project is: _finished_
 Project based on Computational Data-Science
 
 ## Created By
-Created by Arpit Kaur,Sharjeel Ahmed and Srimalaya Ladha
+Created by Arpit Kaur,Sharjeel Ahmad and Srimalaya Ladha
